@@ -34,7 +34,7 @@
     "homepage": "https://github.com/MichalAW/18.8.Gif-search-engine#readme",
     "devDependencies": {
         "autoprefixer-cli": "^1.0.0",
-        "browser-sync": "^2.26.3",
+        "browser-sync": "^2.27.10",
         "globstar": "^1.0.0",
         "http-server": "^0.11.1",
         "node-sass": "^4.11.0",
